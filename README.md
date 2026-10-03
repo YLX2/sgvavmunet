@@ -43,15 +43,15 @@ datasets/
 
 ├── ARCADE/
 
-│   ├── images/
+│     ├── images/
 
-│   └── masks/
+│     └── masks/
 
 └── Clinical/
 
-    ├── images/
-    
-    └── masks/
+      ├── images/
+      
+      └── masks/
     
 Please follow the corresponding dataset licenses and usage policies when downloading and using the datasets.
 

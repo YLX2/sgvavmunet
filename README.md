@@ -29,6 +29,7 @@ timm
 MedPy
 thop
 Additional dependencies are provided in requirements.txt.
+
 📊 Dataset
 
 Experiments are conducted on:
@@ -45,6 +46,7 @@ datasets/
     ├── images/
     └── masks/
 Please follow the corresponding dataset licenses and usage policies when downloading and using the datasets.
+
 🚀 Training
 
 To train Topano-Net:

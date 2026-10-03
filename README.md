@@ -38,13 +38,21 @@ ARCADE public coronary angiography dataset
 Clinical XCA dataset containing 170 patients
 
 Dataset Organization
+
 datasets/
+
 ├── ARCADE/
+
 │   ├── images/
+
 │   └── masks/
+
 └── Clinical/
+
     ├── images/
+    
     └── masks/
+    
 Please follow the corresponding dataset licenses and usage policies when downloading and using the datasets.
 
 🚀 Training
